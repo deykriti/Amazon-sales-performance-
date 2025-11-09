@@ -1,6 +1,6 @@
 ### **Amazon Sales Performance Analysis Dashboard**
-(https://github.com/deykriti/Amazon-sales-performance-/Amazon Sales Dashboard.pbix)
-This project targets to visualize Amazon’s sales data using **Power BI** and identify key trends in terms of **sales performance, profit distribution, regional contribution, and customer behavior**. The raw data can be downloaded from [here](https://github.com/deykriti/Amazon-sales-performance-/Amazon Store Sales Data.xlsx - Sheet1 (1).csv) . It includes details such as order information, product category, sub-category, segment, payment mode, shipping type, and return status.
+(https://github.com/deykriti/Amazon-sales-performance-/Amazon_Sales_Dashboard.pbix)
+This project targets to visualize Amazon’s sales data using **Power BI** and identify key trends in terms of **sales performance, profit distribution, regional contribution, and customer behavior**. The raw data can be downloaded from [here](https://github.com/deykriti/Amazon-sales-performance-/Amazon_Store_Sales_Data.csv) . It includes details such as order information, product category, sub-category, segment, payment mode, shipping type, and return status.
 
 ---
 
