@@ -16,5 +16,5 @@ The study also revealed that **Cash on Delivery (COD)** is the most frequently u
 In addition, the **return rate** of **4.86%** highlights opportunities to enhance logistics efficiency and product quality control. The dashboard offers valuable insights into Amazon’s sales and profit landscape, helping business leaders identify **bottlenecks, underperforming areas, and untapped growth opportunities** for strategic decision-making.
 
 **Author:** *Kriti Dey*  
-* Research Analyst*  
+*Research Analyst*  
 [LinkedIn](https://www.linkedin.com/in/kritidey/) · [GitHub](https://deykriti.github.io/)
