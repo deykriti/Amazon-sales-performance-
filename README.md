@@ -1,7 +1,7 @@
 ### **Amazon Sales Performance Analysis Dashboard**
 <img width="601" height="336" alt="image" src="https://github.com/user-attachments/assets/a9b44e76-b9a4-4c8e-b0d3-0c270679aebf" />
 
-This project targets to visualize Amazon’s sales data using **Power BI** and identify key trends in terms of **sales performance, profit distribution, regional contribution, and customer behavior**. The raw data can be downloaded from [here](https://github.com/deykriti/Amazon-sales-performance-/Amazon_Store_Sales_Data.csv) . It includes details such as order information, product category, sub-category, segment, payment mode, shipping type, and return status.
+This project targets to visualize Amazon’s sales data using **Power BI** and identify key trends in terms of **sales performance, profit distribution, regional contribution, and customer behavior**. The raw data can be downloaded from [here](https://github.com/deykriti/Amazon-sales-performance-/blob/main/Amazon_Store_Sales_Data.csv) . It includes details such as order information, product category, sub-category, segment, payment mode, shipping type, and return status.
 
 ---
 
